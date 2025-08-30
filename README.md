@@ -62,7 +62,10 @@ This project demonstrates my ability to read a research paper, translate it into
 1. **Open in Colab**
 
    * Upload this notebook (`vit-implementation-tiny.ipynb`) to [Google Colab](https://colab.research.google.com/).
-   * Or open directly in Colab.
+   * Or open directly from GitHub:
+     ```
+     https://colab.research.google.com/github/Matan-Vinkler/vit-paper-implementation/blob/main/vit_implementation_tiny.ipynb
+     ```
 
 2. **Set runtime to GPU**
 
