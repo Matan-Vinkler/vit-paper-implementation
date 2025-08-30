@@ -16,6 +16,8 @@ This project demonstrates my ability to read a research paper, translate it into
 
 ## 🏗️ Implementation Details
 
+![Model Architecture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44MHuNZGGJ7qsCL5OBKd-DvT1XspFjRlbRA&s)
+
 ### Components implemented
 
 * **Patchify / Unpatchify**
